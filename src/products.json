@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title":"Sakız",
+        "price": 0.5,
+        "imege":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30082462/30082462_0_MC/8796797599794_1555415441220.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Kola",
+        "price": 6,
+        "imege":"https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30016178/30016178_0_MC/8796397731890_1528879448184.jpg"
+    },
+    {
+        "id": 3,
+        "title":"Ayakkabı",
+        "price": 400,
+        "imege":"https://www.atlaskamp.com/image/cache/data/600x600/urunler/salomon/salomon-xa-collider-2-gtx-outdoor-erkek-ayakkabi-25378-l41433200-600x600.jpg"
+    },
+    {
+        "id": 4,
+        "title":"Araba",
+        "price": 40000,
+        "imege":"https://cdn-nq.toyzzshop.com/product/600x600/719a0_Maxx_Wheels_Isikli_Spor_Araba_12_cm..jpg"
+    }
+]
