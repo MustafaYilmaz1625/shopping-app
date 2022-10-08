@@ -10,7 +10,7 @@ function Product({total,money,product, basket, setBasket}){
         // ürün daha önce eklenmiş
         if(currentBasket){
             currentBasket.amount +=1
-            setBasket([...basket.filter(item=> item.id !== product.di)],currentBasket)
+            setBasket([...basket.filter(item=> item.id !== product.id)],currentBasket)
 
         }else{
             setBasket([...basket, {
